@@ -102,3 +102,9 @@ button {
 .cancel__button:hover {
     color: black;
 }
+.acknowledgement {
+    font-size: 11px;
+    text-align: center;
+    padding-bottom: 7px;
+    justify-content: center;
+}
